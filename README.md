@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unruhe73
 - 👀 I’m interested in Android programming, Python, C/C++, GNU/Linux, FreeBSD, Open Source, Free Software, writing fiction.
-- 🌱 I’m currently learning AWS, Python.
+- 🌱 I’m currently getting more and more familiar with AWS and Python.
 - 💞️ I’m looking to collaborate on some Python project.
 - 📫 How to reach me? Come to visit <a href="https://kslacky.wordpress.com/">my blog</a>.
 - 📫 How to reach me? I use <a href="https://mastodon.social/@unruhe">Mastodon</a>.
